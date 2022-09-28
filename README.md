@@ -18,5 +18,5 @@ const sheets = [{
   ]
 }]
 
-json2excel('test.xlsx', columns, records)
+json2excel('test.xlsx', sheets)
 ```
